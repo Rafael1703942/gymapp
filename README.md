@@ -13,13 +13,16 @@ Com estes dados poderá ser calculado o IMC (indíce de massa corporal) que ser�
 IMC formula = PESO / Altura * Altura
 
 - Componentes do projeto 
+(irá ser alterado pois o design/layout ainda não foi criado)
+
+Textviews , labels , buttons , images ....
+
+- O que faz cada componente
 
 terá pelo menos 3 ecras
 1 ecra terá apenas uma imagem ao carregar no botão "entrar" entra no 2 ecra da aplicação
 2 ecra pedirá o peso do utilizador e a Altura , terá um botão chamado "calculo" onde irá ser efetuado a conta através desta formula IMC formula = PESO / Altura * Altura e terá um campo onde irá indicar a média calculada , e ainda terá outro botão que se irá chamar "Plano" que irá para o ecrã 3 , ainda terá um botão de fechar
 3 ecra irá apenas indicar um plano de treino consuante a média calculada no ecrã 2 , ainda terá um botão de voltar atrás e um de fechar 
-
-- o que faz cada componente 
 
 # como executar : dependências 
 
