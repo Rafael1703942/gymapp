@@ -15,10 +15,6 @@ IMC formula = PESO / Altura * Altura
 - Componentes do projeto 
 
 - o que faz cada componente 
-
-
-
-
 ![tittle](imagem/cobra.jpg)
 
  
