@@ -19,6 +19,6 @@ IMC formula = PESO / Altura * Altura
 
 
 
-![tittle](images/classifier-cobra.jpg)
+![tittle](images/classifier-cobra.jpeg)
 
  
